@@ -6,4 +6,4 @@ class Trunc2 {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    };}
+    };}wdaw
