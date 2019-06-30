@@ -12,8 +12,7 @@ public class DateNow {
 
         if (curMin < mins){
             return mins - curMin;
-        }
-        else {
+        } else {
             return 1440 - curMin + mins;
         }
     }
