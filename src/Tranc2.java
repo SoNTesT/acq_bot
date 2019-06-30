@@ -1,5 +1,3 @@
-package scr;
-
 class Trunc2 {
     Httpreq req = new Httpreq();
     Runnable runs = () -> {

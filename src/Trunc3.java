@@ -1,10 +1,8 @@
-package scr;
-
-class Trunc1 {
+class Trunc3 {
     Httpreq req = new Httpreq();
     Runnable runs = () -> {
         try {
-            req.httppost("Первый транзакционный реестр пришел?");
+            req.httppost("Третий транзакционный реестр пришел?");
         } catch (Exception e) {
             e.printStackTrace();
         }
