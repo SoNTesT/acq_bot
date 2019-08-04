@@ -13,7 +13,7 @@
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
-        <entry key="Collapse" value="NOT_PASSED" />
+        <entry key="Collapse" value="PASSED" />
         <entry key="Comment Line" value="PASSED" />
         <entry key="Completion with Tab" value="NOT_PASSED" />
         <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
@@ -21,10 +21,10 @@
         <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
         <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
-        <entry key="Duplicate" value="NOT_PASSED" />
+        <entry key="Duplicate" value="PASSED" />
         <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
         <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
-        <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
+        <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
         <entry key="EditorBasics.Move" value="NOT_PASSED" />
         <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
@@ -44,7 +44,7 @@
         <entry key="Hippie Completion" value="NOT_PASSED" />
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
         <entry key="Move" value="NOT_PASSED" />
-        <entry key="Multiple Selections" value="NOT_PASSED" />
+        <entry key="Multiple Selections" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
@@ -97,6 +97,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="10229" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Comment Line">
           <value>
             <StatisticData>
@@ -105,11 +113,35 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="13028" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.DeleteLine">
           <value>
             <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="60852" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Move">
+          <value>
+            <StatisticData>
               <option name="state" value="STARTED" />
-              <option name="timestamp" value="1564917104762" />
+              <option name="timestamp" value="1564917186455" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Multiple Selections">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="49098" />
             </StatisticData>
           </value>
         </entry>
