@@ -105,6 +105,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="EditorBasics.DeleteLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1564917104762" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Select">
           <value>
             <StatisticData>
