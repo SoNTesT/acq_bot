@@ -14,6 +14,10 @@
           <option name="url" value="http://stash.tcsbank.ru" />
           <option name="userName" value="v.trubakov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ical4j/ical4j.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
